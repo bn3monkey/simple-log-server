@@ -1,0 +1,1 @@
+Memory mapped file을 이용하면 logwrite를 더 효율적으로 쓸 수 있을듯!!
